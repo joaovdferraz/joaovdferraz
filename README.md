@@ -1,7 +1,7 @@
 ### 👷 I'm a civil engineering who fell in love with data science.
 <ul>
   <li>🌎 I'm living in Londrina/PR - Brazil</li>
-  <li>📊 looking for opportunities in data science and data engineering</li>
+  <li>📊 looking for opportunities in data science</li>
 </ul>
 
 <div>
